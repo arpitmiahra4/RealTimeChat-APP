@@ -1,6 +1,6 @@
 # RealTimeChat-APP
 
-# Welcome to MS Teams Clone!
+# Welcome to MY First React App;
 
 ### [Example Website](https://mishraa.netlify.app/)
 
