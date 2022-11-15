@@ -1,6 +1,6 @@
 # RealTimeChat-APP
 
-# Welcome to My React App;
+# Welcome to MyReact App;
 
 ### [Example Website](https://mishraa.netlify.app/)
 
